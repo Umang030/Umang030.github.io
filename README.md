@@ -1,3 +1,6 @@
 # Basic Banking System
-
-I built this website as a intern during spark foundation internship.
+Live preview : https://umang030.github.io/
+# Technologies Used:
+<li>HTML</li>
+<li>CSS</li>
+<li>JAVASCRIPT</li>
